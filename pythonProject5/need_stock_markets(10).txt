@@ -1,0 +1,35 @@
+https://www.coingecko.com/en/coins/kintsugi#markets
+3 Kraken KINT/EUR $0.662601 $584 4.14%
+2 Gate.io KINT/USDT $0.699755 $12,357 87.45%
+5.607296095236791%
+------------------------------
+https://www.coingecko.com/en/coins/dlp-duck-token#markets
+1 Gate.io DUCK/USDT $0.01738218 $17,144 40.57%
+3 Uniswap(v2) DUCK/DDIM $0.01884030 $2,241 5.30%
+8.388591074307143%
+------------------------------
+https://www.coingecko.com/en/coins/dlp-duck-token#markets
+5 Bilaxy DUCK/ETH $0.01803994 $14,853 35.14%
+2 Uniswap(v2) WETH/DUCK $0.01884030 $6,920 16.37%
+4.436600121729896%
+------------------------------
+https://www.coingecko.com/en/coins/hot-cross#markets
+12 Bilaxy HOTCROSS/BNB $0.00712026 $13,120 4.13%
+9 Hotbit HOTCROSS/USDT $0.00740024 $24,193 7.62%
+3.93215978068217%
+------------------------------
+https://www.coingecko.com/en/coins/essentia#markets
+1 Uniswap(v2) WETH/ESS $0.00065690 $153 0.97%
+2 Gate.io ESS/USDT $0.00069143 $12,623 79.95%
+5.256507839853882%
+------------------------------
+https://www.coingecko.com/en/coins/onx-finance#markets
+4 Gate.io ONX/USDT $0.071489 $17,645 44.21%
+6 Bilaxy ONX/ETH $0.078711 $13,908 34.85%
+10.102253493544467%
+------------------------------
+https://www.coingecko.com/en/coins/oddz#markets
+7 Hotbit ODDZ/USDT $0.01099850 $40,179 16.03%
+8 Bilaxy ODDZ/ETH $0.01168938 $14,954 5.97%
+6.281583852343488%
+------------------------------
