@@ -1,0 +1,95 @@
+https://www.coingecko.com/en/coins/equalizer#markets
+1 KuCoin EQZ/USDT $0.02249856 $23,787 99.34%
+2 Uniswap(v2) EQZ/WETH $0.02339489 $157 0.66%
+3.9839438612960265%
+------------------------------
+https://www.coingecko.com/en/coins/kintsugi#markets
+4 Kraken KINT/USD $0.660038 $333 2.36%
+1 MEXCGlobal KINT/USDT $0.700755 $135 0.95%
+6.1688872458858555%
+------------------------------
+https://www.coingecko.com/en/coins/gather#markets
+5 PancakeSwap(v2) GTH/WBNB $0.00354102 $9,812 17.75%
+4 Gate.io GTH/ETH $0.00365127 $3,278 5.93%
+3.113509666706193%
+------------------------------
+https://www.coingecko.com/en/coins/aurora#markets
+2 KuCoin AOA/BTC $0.00018899 $68.86 0.23%
+5 Indodax AOA/IDR $0.00025699 $3,733 12.69%
+35.98073972167842%
+------------------------------
+https://www.coingecko.com/en/coins/el-dorado-exchange#markets
+1 PancakeSwap(v2) EDE/BUSD $3.25 $14,095 44.28%
+2 Bilaxy EDE/BUSD $3.40 $17,737 55.72%
+4.615384615384613%
+------------------------------
+https://www.coingecko.com/en/coins/goldcoin#markets
+1 SouthXchange GLC/BTC $0.01421507 $79.69 25.42%
+2 LATOKEN GLC/USDT $0.02079066 $171 54.49%
+46.25787984160473%
+------------------------------
+https://www.coingecko.com/en/coins/goldcoin#markets
+4 SouthXchange GLC/DOGE $0.01596402 $14.82 4.73%
+5 Freiexchange GLC/BTC $0.01705808 $36.98 11.80%
+6.853286327629263%
+------------------------------
+https://www.coingecko.com/en/coins/adax#markets
+3 LATOKEN ADAX/USDT $0.01355787 $693 0.64%
+2 ExMarkets ADAX/USDT $0.01548784 $32,068 29.51%
+14.235053146253804%
+------------------------------
+https://www.coingecko.com/en/coins/adax#markets
+7 MEXCGlobal ADAX/USDT $0.01399805 $335 0.31%
+1 ExMarkets ADAX/ADA $0.01547874 $38,285 35.23%
+10.577830483531642%
+------------------------------
+https://www.coingecko.com/en/coins/bobs-repair#markets
+3 Zonda BOB/PLN $0.00300081 $102 100.00%
+1 Hotbit BOB/BTC $0.00325553 $556 544.91%
+8.488374805469178%
+------------------------------
+https://www.coingecko.com/en/coins/sifchain#markets
+1 Osmosis EROWAN/OSMO $0.00026798 $2,017 16.28%
+3 AscendEX(BitMax) EROWAN/USDT $0.00032795 $10,345 83.48%
+22.37853571162026%
+------------------------------
+https://www.coingecko.com/en/coins/naos-finance#markets
+6 Bilaxy NAOS/ETH $0.00988525 $12,851 7.77%
+4 PancakeSwap(v2) NAOS/WBNB $0.01057045 $2,756 1.67%
+6.931539414784652%
+------------------------------
+https://www.coingecko.com/en/coins/metafabric#markets
+4 Bilaxy FABRIC/ETH $0.00132212 $14,391 6.35%
+2 PancakeSwap(v2) FABRIC/WBNB $0.00139855 $251 0.11%
+5.780867092245771%
+------------------------------
+https://www.coingecko.com/en/coins/cindicator#markets
+1 Uniswap(v3) CND/USDT $0.00039073 $1,321 97.97%
+2 Bittrex CND/BTC $0.00050164 $27.34 2.03%
+28.385330023289754%
+------------------------------
+https://www.coingecko.com/en/coins/clucoin#markets
+2 LeonicornSwap CLU/LEON $0.000000002202 $157 57.71%
+1 LATOKEN CLU/USDT $0.000000002970 $115 42.29%
+34.87738419618526%
+------------------------------
+https://www.coingecko.com/en/coins/onx-finance#markets
+5 Gate.io ONX/ETH $0.072638 $2,734 6.85%
+7 Coinone ONX/KRW $0.078290 $2,686 6.73%
+7.781051240397588%
+------------------------------
+https://www.coingecko.com/en/coins/garlicoin#markets
+1 TradeOgre GRLC/BTC $0.01070113 $35.11 74.09%
+2 Freiexchange GRLC/BTC $0.01103554 $12.28 25.91%
+3.1249970797476436%
+------------------------------
+https://www.coingecko.com/en/coins/hyve#markets
+1 Gate.io HYVE/USDT $0.02086712 $12,737 18.71%
+4 Uniswap(v3) HYVE/USDT $0.02213166 $1,894 2.78%
+6.059964192471227%
+------------------------------
+https://www.coingecko.com/en/coins/hyve#markets
+2 KuCoin HYVE/USDT $0.02102710 $36,809 54.08%
+5 Uniswap(v2) WETH/HYVE $0.02177861 $268 0.39%
+3.5740068768398885%
+------------------------------
