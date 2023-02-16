@@ -2,7 +2,7 @@ import time
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5962720905:AAFTMSAJ0Lkvt5SQ1ljKMaIFQD4MdrFfEo0')
+bot = telebot.TeleBot('*') #tg token
 
 
 def handle_text(message):
