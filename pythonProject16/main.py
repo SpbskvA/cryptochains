@@ -1,5 +1,9 @@
-x1 = 1
-x2 = 2
-x3 = 3
-x1, x2, x3 = x2, x1, x2
-print(x1, x2, x3)
+a = 0 + 0j
+for i in range(1, 2000, 6):
+    print(i)
+    if i % 2 == 1:
+        a -= (0 + 1j) ** i
+    else:
+        a += (0 - 1j) ** i
+    print(a)
+print(a)
